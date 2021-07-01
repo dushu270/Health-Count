@@ -1,0 +1,1 @@
+Health Count is a simple website which allows you to calculate Body Mass Index of the person by entering height and weight. It also helps to calcuate the calories contained in a food according to quantity entered by the user.
